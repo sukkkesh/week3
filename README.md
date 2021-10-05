@@ -7,7 +7,7 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
-* [Solution](https://github.com/sukkkesh/week3/tree/main/module2)
+* [Solution](https://github.com/sukkkesh/week3/main/module2)
 
 
 ### Module 3
